@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WilCodeBoer/Portfolio/issues"
   },
-  "homepage": "https://github.com/WilCodeBoer/Portfolio#readme"
+  "homepage": "https://github.com/WilCodeBoer/Portfolio#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
